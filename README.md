@@ -167,4 +167,4 @@ void loop() {
 This project is licensed under the **MIT License**.
 
 ## Contributors
-👤 **Your Name** – [GitHub](https://github.com/yourusername)
+👤 **Dhaval Kalathiya** – [GitHub](https://github.com/DhavalKalathiya-Xenox)
